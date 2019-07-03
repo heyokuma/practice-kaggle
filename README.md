@@ -1,7 +1,5 @@
 # practice-kaggle
-There are some kaggle codes I did.
-If you cannot read .ipynb, please copy the url of .ipynb to https://nbviewer.jupyter.org/,
-or just 'Reload' again.
+There are some codes I did for Kaggle datasets.
 
-i.e. 
-https://nbviewer.jupyter.org/github/heyokuma/practice-kaggle/blob/master/kkstream_singlemodel_newfeature.ipynb
+If you cannot read .ipynb, please open "https://nbviewer.jupyter.org/" ans paste the notebook link. 
+This is an independent tool that may work when github doesn't.
