@@ -1,2 +1,2 @@
 # practice-kaggle
-Hello
+There are some kaggle codes I did.
