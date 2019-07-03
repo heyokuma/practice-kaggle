@@ -4,4 +4,4 @@ If you cannot read .ipynb, please copy the url of .ipynb to https://nbviewer.jup
 and try to click the same .ipynb again.
 
 i.e. 
-https://github.com/heyokuma/practice-kaggle/blob/master/CreditCard_0619.ipynb
+https://nbviewer.jupyter.org/github/heyokuma/practice-kaggle/blob/master/kkstream_singlemodel_newfeature.ipynb
